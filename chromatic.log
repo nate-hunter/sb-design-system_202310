@@ -1,0 +1,103 @@
+
+Chromatic CLI v7.6.0
+https://www.chromatic.com/docs/cli
+
+Authenticating with Chromatic
+    → Connecting to https://index.chromatic.com
+Authenticated with Chromatic
+    → Using project token '****************6df4'
+Retrieving git information
+Retrieved git information
+    → Commit 'e73716c' on branch 'main'; no ancestor found
+Collecting Storybook metadata
+Collected Storybook metadata
+    → Storybook 7.5.2 for React; using the @storybook/react-vite builder (7.5.2); supported addons found: Links, Essentials, Interactions
+Initializing build
+Initialized build
+    → Build 3 initialized
+Building your Storybook
+    → Running command: yarn run build-storybook --output-dir /var/folders/nw/vlxqy3ls3490_3f4wzvs6c300000gn/T/chromatic--34857-C9BIRQ24oQhu
+Storybook built in 8 seconds
+    → View build log at /Users/natehunter/Code/demos/storybook/storybook-docs/sb-design-system_202310/build-storybook.log
+Publish your built Storybook
+    → Validating Storybook files
+Publishing your built Storybook
+    → Retrieving target location
+    → Starting publish
+    → [                    ] 0%
+    → [=                   ] 5%
+    → [=                   ] 7%
+    → [==                  ] 10%
+    → [===                 ] 15%
+    → [====                ] 21%
+    → [=====               ] 23%
+    → [=====               ] 25%
+    → [=====               ] 26%
+    → [======              ] 29%
+    → [======              ] 31%
+    → [=======             ] 33%
+    → [=======             ] 36%
+    → [========            ] 39%
+    → [========            ] 40%
+    → [========            ] 41%
+    → [=========           ] 43%
+    → [=========           ] 44%
+    → [=========           ] 46%
+    → [==========          ] 48%
+    → [==========          ] 50%
+    → [==========          ] 51%
+    → [===========         ] 53%
+    → [===========         ] 55%
+    → [===========         ] 57%
+    → [============        ] 58%
+    → [============        ] 59%
+    → [============        ] 60%
+    → [============        ] 62%
+    → [=============       ] 63%
+    → [=============       ] 64%
+    → [=============       ] 66%
+    → [=============       ] 67%
+    → [==============      ] 68%
+    → [==============      ] 69%
+    → [==============      ] 71%
+    → [==============      ] 72%
+    → [===============     ] 75%
+    → [===============     ] 77%
+    → [================    ] 80%
+    → [=================   ] 83%
+    → [=================   ] 87%
+    → [==================  ] 89%
+    → [==================  ] 90%
+    → [==================  ] 92%
+    → [=================== ] 94%
+    → [=================== ] 96%
+    → [=================== ] 97%
+    → [====================] 98%
+    → [====================] 99%
+    → [====================] 100%
+Publish complete in 10 seconds
+    → View your Storybook at https://6541d646681dbfd4f3d06794-fskyjxmyof.chromatic.com
+Verifying your Storybook
+    → This may take a few minutes
+Started build 3
+    → Continue setup at https://www.chromatic.com/setup?appId=6541d646681dbfd4f3d06794
+Running 21 tests
+    → This may take a few minutes
+ℹ Speed up Continuous Integration
+Your project is linked to GitHub so Chromatic will report results there.
+This means you can pass the --exit-once-uploaded flag to skip waiting for build results.
+Read more here: https://www.chromatic.com/docs/cli#chromatic-options
+    → [=                   ] 1/21  Avatar › Standard 
+    → [======              ] 6/21  Avatar › Controls 
+    → [==========          ] 10/21  Badge › Warning 
+    → [=============       ] 14/21  Button › all buttons 
+    → [================    ] 17/21  Icon › Labels 
+    → [=================   ] 18/21  Icon › no labels 
+    → [====================] 21/21  Link › ALL 
+✔ Build passed. Welcome to Chromatic!
+We found 5 components with 21 stories and took 21 snapshots.
+ℹ Please continue setup at https://www.chromatic.com/setup?appId=6541d646681dbfd4f3d06794
+Build 3 auto-accepted
+    → Tested 21 stories across 5 components; captured 21 snapshots in 16 seconds
+
+
