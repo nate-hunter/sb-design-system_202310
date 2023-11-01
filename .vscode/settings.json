@@ -1,0 +1,16 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.cursorWidth": 4,
+
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 100,
+
+  "files.trimTrailingWhitespace": true,
+
+  "workbench.colorCustomizations": {
+    "activityBar.border": "#FE4685",
+    "activityBar.foreground": "#FE4685",
+    "titleBar.activeForeground": "#FE4685"
+  }
+}
